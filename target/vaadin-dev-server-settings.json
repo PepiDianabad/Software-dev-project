@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/chill/11klas/SoftwareDev/software dev project/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/chill/11klas/SoftwareDev/software dev project/./frontend/generated/jar-resources",
+  "staticOutput": "D:/chill/11klas/SoftwareDev/software dev project/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\chill\\11klas\\SoftwareDev\\software dev project\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\chill\\11klas\\SoftwareDev\\software dev project\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/chill/11klas/SoftwareDev/software dev project/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/chill/11klas/SoftwareDev/software dev project/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/chill/11klas/SoftwareDev/software dev project/./frontend/generated/jar-resources",
+  "themeName": "flowcrmtutorial",
+  "clientServiceWorkerSource": "D:\\chill\\11klas\\SoftwareDev\\software dev project\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'offline.html'"
+}
